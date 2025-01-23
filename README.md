@@ -21,7 +21,7 @@ In the first half of the webinar, I will give a background on why RAG evaluation
 In the second half of the webinar, I will run through code notebooks to show:
 1. [Basics of vector databases with Milvus](https://github.com/stefanwebb/odsc-ai-builders-summit-2025/blob/main/notebooks/1%20getting%20started%20with%20vector%20databases.ipynb)
 2. [Basics of foundation model eval with RAGAS](https://github.com/stefanwebb/odsc-ai-builders-summit-2025/blob/main/notebooks/2%20getting%20started%20with%20ragas%20-%20apple%20silicon.ipynb)
-3. [Creating a RAG-esque pipeline with Milvus](https://github.com/stefanwebb/odsc-ai-builders-summit-2025/blob/main/notebooks/3%20building%20a%20rag%20system%20with%20milvus%20-%20apple%20silicon.ipynb.ipynb)
+3. [Creating a RAG-esque pipeline with Milvus](https://github.com/stefanwebb/odsc-ai-builders-summit-2025/blob/main/notebooks/3%20building%20a%20rag%20system%20with%20milvus%20-%20apple%20silicon.ipynb)
 4. [Combining Milvus and RAGAS, to build a RAG pipeline and evaluate it](https://github.com/stefanwebb/odsc-ai-builders-summit-2025/blob/main/notebooks/4%20evaluating%20rag%20system%20with%20milvus%20and%20ragas%20-%20apple%20silicon.ipynb)
 
 ## Next Steps
