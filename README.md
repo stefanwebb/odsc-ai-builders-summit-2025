@@ -12,7 +12,7 @@ Note the pinned version for `mlx-lm`. This is due to a breaking change in later 
 Similar libraries are required for other hardware like those with Nvidia CUDA-capable or AMD graphics cards (details during presentation). If you do not have local access to acceleration hardware, open a [Google Colab notebook](https://colab.research.google.com/).
 
 > [!NOTE] 
-> Corresponding notebooks for Nvidia CUDA and Google TPU (Goole Colab) will be made available shortly.
+> Corresponding notebooks for Nvidia CUDA and Google TPU (Google Colab) will be made available shortly.
 
 ## Presentation
 In the first half of the webinar, I will give a background on why RAG evaluation is important and how an established yet simple method works.
